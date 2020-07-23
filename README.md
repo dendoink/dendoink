@@ -8,7 +8,7 @@ This is Dendoink.
 
 ### Contact
 - 🌱 I’m currently learning source code of React
-- 📫 reach me at: [e-mail](dendise7en@gmail.com) or wechat 「 dendoink-fe 」
+- 📫 reach me at: <dendise7en@gmail.com>
 
 ### Open source
 <a href="https://github.com/dendoink/FrontendWingman">
