@@ -1,4 +1,4 @@
-### Yo fellas 🐥
+### Sup bro!
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=0095f6&size=32&width=500&lines=I+believe+in+magic;I+see+it+in+your+eyes)](https://git.io/typing-svg)
