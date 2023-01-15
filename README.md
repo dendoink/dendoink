@@ -4,18 +4,17 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=0095f6&size=32&width=500&lines=I+believe+in+magic;I+see+it+in+your+eyes)](https://git.io/typing-svg)
 
 
-<!-- ### On Github -->
+### On Github
+![Dendoink's GitHub stats](https://github-readme-stats.vercel.app/api?username=dendoink&show_icons=true&theme=tokyonight)
 <!-- ![Dendoink's github stats](https://github-readme-stats.vercel.app/api?username=dendoink&show_icons=true&theme=tokyonight) -->
 
 ### Contact
 - 🌱 I’m currently learning source code of React
 - 📫 reach me at: <dendise7en@gmail.com>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dendoink)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Technologies
-
-![HTML5](https://img.icons8.com/color/30/html-5.png)![CSS3](https://img.icons8.com/color/30/css3.png)![JavaScript](https://img.icons8.com/color/30/javascript.png)![NodeJS](https://img.icons8.com/color/30/nodejs.png)![NPM](https://img.icons8.com/color/30/npm.png)![Github](https://img.icons8.com/material-outlined/30/github.png)![Git](https://img.icons8.com/color/30/git.png)![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png)![Vue](https://img.icons8.com/color/30/vue-js.png)![React](https://img.icons8.com/color/30/react-native.png)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dendoink)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Open source
 <a href="https://github.com/dendoink/FrontendWingman">
