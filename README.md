@@ -3,7 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=0095f6&size=32&width=500&lines=I+believe+in+magic;I+see+it+in+your+eyes)](https://git.io/typing-svg)
 
-
+![Dendoink's GitHub stats](https://github-readme-stats.vercel.app/api?username=dendoink&show_icons=true&theme=radical&count_private=true)
 <!-- ![Dendoink's GitHub stats](https://github-readme-stats.vercel.app/api?username=dendoink&show_icons=true&theme=tokyonight) -->
 <!-- ![Dendoink's github stats](https://github-readme-stats.vercel.app/api?username=dendoink&show_icons=true&theme=tokyonight) -->
 
