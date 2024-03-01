@@ -5,6 +5,7 @@
 
 <!-- ![Dendoink's GitHub stats](https://github-readme-stats.vercel.app/api?username=dendoink&show_icons=true&theme=tokyonight) -->
 <!-- ![Dendoink's github stats](https://github-readme-stats.vercel.app/api?username=dendoink&show_icons=true&theme=tokyonight) -->
+https://pixel-profile.vercel.app/api/github-stats?username=dendoink&screen_effect=true&theme=rainbow
 
 - 📫 reach me at: <dendise7en@gmail.com>
 
