@@ -26,20 +26,15 @@
   </tr>
   <tr>
     <td width="50%" align="center">
-      <img height="175" alt="stats" src="https://github-readme-stats.vercel.app/api?username=dendoink&show_icons=true&hide=contribs&count_private=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=86400"/>
+      <img height="180" alt="stats" src="https://github-readme-stats.vercel.app/api?username=dendoink&show_icons=true&hide=contribs&count_private=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=86400&card_width=480"/>
     </td>
     <td width="50%" align="center">
-      <img height="175" alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dendoink&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&exclude_repo=FrontendWingman,Align&cache_seconds=86400"/>
+      <img height="180" alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dendoink&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&exclude_repo=FrontendWingman,Align&cache_seconds=86400&card_width=480"/>
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img alt="streak" src="https://streak-stats.demolab.com?user=dendoink&theme=tokyonight&hide_border=true&card_width=700"/>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img alt="3D contribution calendar" src="./github-metrics.svg" width="100%"/>
+      <img alt="streak" width="100%" src="https://streak-stats.demolab.com?user=dendoink&theme=tokyonight&hide_border=true&card_width=980"/>
     </td>
   </tr>
 </table>
