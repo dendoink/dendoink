@@ -1,11 +1,10 @@
-<h1 align="center">
-  Dendoink
-  <br/>
-  <sub><sup>a dreamer who looks up at the stars</sup></sub>
-</h1>
+<h1 align="center">Dendoink</h1>
+
+<p align="center"><sub><em>a dreamer who looks up at the stars</em></sub></p>
 
 <p align="center">
-  <em>"I'm a dreamer, like the man who looks up at the stars<br/>and believes in possibilities beyond the ordinary."</em>
+  <em>"I'm a dreamer, like the man who looks up at the stars<br/>
+  and believes in possibilities beyond the ordinary."</em>
   <br/>
   <sub>— The Matrix</sub>
 </p>
@@ -18,20 +17,21 @@
 
 <br/>
 
-<!-- Contribution snake — generated daily by .github/workflows/snake.yml -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dendoink/dendoink/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dendoink/dendoink/output/github-snake.svg"/>
-  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/dendoink/dendoink/output/github-snake.svg"/>
-</picture>
-
-<br/>
-<br/>
-
-<!-- Stats row — anuraghazra/github-readme-stats public endpoint -->
+<!-- Contribution snake — full-width hero animation -->
 <p align="center">
-  <img height="170" alt="github stats" src="https://github-readme-stats.vercel.app/api?username=dendoink&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-  <img height="170" alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dendoink&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&exclude_repo=FrontendWingman,Align"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dendoink/dendoink/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dendoink/dendoink/output/github-snake.svg"/>
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/dendoink/dendoink/output/github-snake.svg"/>
+  </picture>
+</p>
+
+<br/>
+
+<!-- Stats row — matched heights, centred, hide empty "contribs" field -->
+<p align="center">
+  <img height="175" alt="stats" src="https://github-readme-stats.vercel.app/api?username=dendoink&show_icons=true&hide=contribs&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+  <img height="175" alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dendoink&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&exclude_repo=FrontendWingman,Align"/>
 </p>
 
 <p align="center">
@@ -40,7 +40,7 @@
 
 <br/>
 
-<!-- Deep metrics — generated daily by .github/workflows/metrics.yml -->
+<!-- 3D isometric contribution calendar (only metrics plugin kept) -->
 <p align="center">
-  <img alt="metrics" src="./github-metrics.svg"/>
+  <img alt="3D contribution calendar" src="./github-metrics.svg"/>
 </p>
