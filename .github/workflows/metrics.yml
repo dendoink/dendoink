@@ -13,7 +13,7 @@ permissions:
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    timeout-minutes: 10
     steps:
       - name: Generate metrics.svg
         uses: lowlighter/metrics@latest
@@ -22,51 +22,10 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           user: dendoink
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: ""
           config_timezone: Asia/Shanghai
-          config_order: base.header, isocalendar, achievements, languages, habits, lines, topics, followup, base.repositories, base.metadata
+          config_order: isocalendar
 
-          # Isometric 3D contribution calendar — "dreamer looking at stars" vibe
+          # Only the 3D isocalendar — clean, zero-failure plugin
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
-
-          # Achievements (you have x4 Shark / x3 Pea / YOLO / Pair / Heart-eyes)
-          plugin_achievements: yes
-          plugin_achievements_threshold: C
-          plugin_achievements_secrets: yes
-          plugin_achievements_display: detailed
-          plugin_achievements_limit: 0
-
-          # Habits — editor / indent / commit hour, the human-color layer
-          plugin_habits: yes
-          plugin_habits_from: 200
-          plugin_habits_days: 14
-          plugin_habits_charts: yes
-          plugin_habits_trim: yes
-
-          # Languages with indepth — real distribution, ignore generated
-          plugin_languages: yes
-          plugin_languages_indepth: yes
-          plugin_languages_analysis_timeout: 15
-          plugin_languages_categories: markup, programming
-          plugin_languages_recent_categories: markup, programming
-          plugin_languages_limit: 8
-          plugin_languages_threshold: 0%
-          plugin_languages_ignored: >-
-            html, css, tex, less, dockerfile, makefile, qmake, lex, cmake,
-            gnuplot, markdown, xslt, webassembly, batchfile, roff, scss, sass
-
-          # Lines of code churn
-          plugin_lines: yes
-          plugin_lines_sections: base, repositories
-          plugin_lines_repositories_limit: 4
-
-          # Issue / PR follow-up rate
-          plugin_followup: yes
-          plugin_followup_sections: repositories
-          plugin_followup_indepth: no
-
-          # Topics cloud — reveals interests (ai-agent, frontend, game-dev...)
-          plugin_topics: yes
-          plugin_topics_mode: mastered
-          plugin_topics_limit: 15
